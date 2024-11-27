@@ -10,5 +10,7 @@ Ce dépôt contient les résultats d'une analyse de données réalisée pour un 
 ## Lien de la présentation  
 [Accéder aux slides sur Google Drive](https://docs.google.com/presentation/d/1RglaOsDKS1CL7SVt4W9Vg-CZAmrtYx030RkkcXFKzL4/edit)  
 
+## Power BI (Logistique)
+
 ## Avertissement  
 Le fichier Power BI utilisé pour ce projet n'est pas disponible actuellement. 
